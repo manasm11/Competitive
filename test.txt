@@ -1,0 +1,78 @@
+2. File system primarily consists of four blocks. One of the blocks in the file system stores the size of the file system and the number of free blocks in the file system. Name that block of the file system that stores this information.
+
+
+3. The following instruction is executed "pid = fork();". Which of the following statements is/are correct
+
+6. Consider the following C program. What is the output?
+
+7. When we execute the dup system call, "newfd = dup (fd);"
+8. The data written in a file resides in the hard disk in 
+
+9. If a program (say A) invokes the system call execl() and if execution of execl() is successful, then the execution control
+
+10. Consider the following C program "openSys.c" which is compiled using 
+
+11. Which of the followig statements is/are correct.
+
+12. Assume that the size of inode record is 40 bytes and each block in the inode list can store 20 inodes. If the starting block of inode list is 4, then what is the offset of inode number 563 within the block where the inode resides?
+
+13. When we open the same file with same flags twice in the same process. e.g. fd1 = open("/etc/file1.txt", O_RDONLY); fd2 = open("/etc/file2.txt", O_RDONLY); What happens?
+
+14. Consider the following program "program1.c" which is compiled using 
+
+15. Which of the following is/are INCORRECT with respect to the disk inode(s)
+
+16. Stmt 1. The UNIX considers directories and peripheral devices as files. The Internal representation of the file is given by an inode.
+
+17. Consider the following C program. 
+
+18. The inode lock of an in-core inode is set. This 
+
+19. What do you mean by execute permission in a directory? Which of the following is/are correct
+
+20. Which algorithm/s is/are used for conversion of byte offset to block number in file system?
+
+21. Which of the following statements is/are INCORRECT
+
+22. The child process created using the fork will have same current directory and same root as the parent process
+
+23. Assume that a logical block on the file system holds 1K (1024) bytes and that a block number is addressable by 32 bit (4 bytes) integer. If a process wants to access byte offset 450,000 in the file, it must access the
+
+24. Stmt 1. When we are executing creat system call, we need to provide the file descriptor.
+
+25. When we execute the lseek system call after "fp = open ("/etc/test1.c",O_RDONLY);" which of the following is/are correct?
+
+
+26. The write system call that uses the input parameters A, B and C and output parameter D is given as follows
+
+
+28. Which of the following will change if the file permissions of a file abc.txt change? 
+
+29. Stmt 1. The context of a process consists of various parts including the register context, the user level context, and system-level context.
+
+30. Which of the following system calls in Unix allow(s) to run one user program from within the other program?
+
+31. A compiler generates addresses for virtual address space. Which of the following is true.
+
+32. When we execute the exec system call, we can not return to the previous program if the call is successful. Why?
+
+33. If the system call open() fails, the return value is 
+
+34. Which of the following is/are correct with respect to read, write and open system calls
+
+35. Which of the following system calls use SEEK_CUR as its one parameter?
+
+36. Consider the following program written in C language. What is the output of the program?
+
+37. Consider the following C code that uses fork() system call in a loop. What is the output of the following program?
+
+
+39. We execute the the command "fd = open(pathname, flags, modes)". The file already exists. Which of the following algorithms is/are most likely used
+
+
+
+
+
+ 
+
+
