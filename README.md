@@ -1,2 +1,2 @@
 # Competitive
-Learning Competitve coding !!!
+Learning Competitive coding !!!
